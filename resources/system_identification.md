@@ -16,7 +16,7 @@ Good models → better controllers
 # System Identification
 
 - **Machine Learning for Industrial Control Systems:** [arXiv](https://arxiv.org/abs/2209.11123)
-  - Summary: Covers data-driven modeling techniques for identifying system dynamics.
+  - Summary: Covers system modeling and identification using real-world data.
 
 - **ML for Industrial Sensing and Control:** [arXiv](https://arxiv.org/abs/2401.13836)
-  - Summary: Discusses hybrid identification combining physical laws with learned models.
+  - Summary: Discusses hybrid system identification combining physics and learned models.
