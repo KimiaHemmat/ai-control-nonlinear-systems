@@ -16,13 +16,10 @@ ML is most effective when used to:
 # ML Augmented Control
 
 - **Data-Driven Control with Guarantees:** [ScienceDirect](https://doi.org/10.1016/j.arcontrol.2023.100911)
-  - Summary: Uses system data instead of explicit models while maintaining stability through optimization techniques.
+  - Summary: Uses system data for control design while preserving theoretical guarantees.
 
 - **Machine Learning for Industrial Control Systems:** [arXiv](https://arxiv.org/abs/2209.11123)
-  - Summary: Reviews ML applications in industrial control including monitoring, prediction, and adaptive control.
-
-- **ML for Industrial Sensing and Control (Hybrid Systems):** [arXiv](https://arxiv.org/abs/2401.13836)
-  - Summary: Combines physical models with machine learning to improve robustness and efficiency in nonlinear control.
+  - Summary: Reviews machine learning methods for industrial nonlinear control applications.
 
 - **Machine Learning and Control Theory (Unified View):** [arXiv](https://arxiv.org/abs/2006.05604)
-  - Summary: Connects ML and control theory, showing reinforcement learning as a form of optimal control.
+  - Summary: Connects machine learning methods with optimal and nonlinear control theory.
