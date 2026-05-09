@@ -16,8 +16,5 @@ RL is powerful but:
 - ---
 # Reinforcement Learning
 
-- **Machine Learning and Control Theory (RL Perspective):** [arXiv](https://arxiv.org/abs/2006.05604)
-  - Summary: Frames reinforcement learning as stochastic optimal control linked to classical methods.
-
 - **ML for Industrial Sensing and Control (RL Methods):** [arXiv](https://arxiv.org/abs/2401.13836)
-  - Summary: Highlights RL as a model-free approach for controlling complex nonlinear systems.
+  - Summary: Discusses reinforcement learning for model-free nonlinear control systems.
